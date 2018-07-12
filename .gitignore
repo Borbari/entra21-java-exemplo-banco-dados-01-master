@@ -1,0 +1,6 @@
+
+build/classes/.netbeans_automatic_build
+*.class
+*.xml
+*.properties
+*.mf
